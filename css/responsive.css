@@ -1,0 +1,207 @@
+@media (min-width: 256px) and (max-width:767.9px) {
+    .menu_bar {
+        width: 100%;
+        text-align: center;
+        transition: linear 0.5s;
+        background-color: #ffffff;
+    }
+
+    .menu_bar .nav-link {
+        margin-right: 0px;
+    }
+
+    .banner_text h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner_text p {
+        margin: 10px 0;
+        line-height: 25px;
+        font-size: 13px;
+    }
+
+    .portfolio_btn ul .btn {
+        font-weight: 600;
+        font-size: 14px;
+        position: relative;
+        padding: 5px;
+    }
+
+    .mixitup-control-active::after {
+        height: 2px;
+    }
+
+    .portfolio_overley {
+        width: 200px;
+    }
+
+    .portfolio_text h5 {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 27px;
+        padding-bottom: 10px;
+    }
+
+    .portfolio_text a {
+        font-size: 13px;
+    }
+
+    .section_intro h4 {
+        font-size: 25px;
+    }
+
+    .section_intro p {
+        font-size: 14px;
+    }
+
+    #customer .section_intro h4 {
+        line-height: 30px;
+    }
+
+    .customer_item {
+        margin: 0;
+    }
+
+    .service_box,
+    .mixit_box {
+        --bs-gutter-x: 10px;
+        --bs-gutter-y: 30px;
+    }
+
+    .team_img,
+    .customer_item {
+        width: 95% !important;
+        margin-left: 10px !important;
+    }
+
+    .latest_item {
+        margin-bottom: 20px;
+    }
+
+    .footer_item {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .footer_left {
+        text-align: center;
+    }
+
+    .footer_left p {
+        margin: auto;
+    }
+
+    .footer_link ul li:last-child {
+
+        margin-right: 0;
+    }
+
+    .footer_item_link ul li a {
+        margin-top: 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width:991.9px) {
+    .menu_bar {
+        width: 100%;
+        text-align: center;
+        transition: linear 0.5s;
+        background-color: #ffffff;
+    }
+
+    .menu_bar .nav-link {
+        margin-right: 0px;
+    }
+
+    .banner_text h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner_text p {
+        margin: 10px 0;
+        line-height: 25px;
+        font-size: 13px;
+    }
+
+    .portfolio_btn ul .btn {
+        font-weight: 600;
+        font-size: 14px;
+        position: relative;
+        padding: 5px;
+    }
+
+    .portfolio_btn ul .btn {
+        font-weight: 600;
+        font-size: 14px;
+        position: relative;
+        padding: 15px;
+    }
+
+    .mixitup-control-active::after {
+        height: 3px;
+    }
+
+    .middle {
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .footer_item {
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .ser_text h4 {
+        font-size: 20px;
+    }
+
+    .banner_text h2 {
+        font-size: 55px;
+        line-height: 70px;
+    }
+
+    .portfolio_btn ul .btn {
+        font-weight: 600;
+        font-size: 14px;
+        position: relative;
+        padding: 5px;
+    }
+
+    .portfolio_btn ul .btn {
+        font-weight: 600;
+        font-size: 16px;
+        position: relative;
+        padding: 15px;
+    }
+
+    .mixitup-control-active::after {
+        height: 3px;
+    }
+
+    .portfolio_overley {
+        width: 200px;
+    }
+
+    .portfolio_text h5 {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 27px;
+        padding-bottom: 10px;
+    }
+
+    .portfolio_text a {
+        font-size: 13px;
+    }
+
+    .section_intro h4 {
+        line-height: 40px;
+        font-size: 35px;
+    }
+}
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 1400px) {}
